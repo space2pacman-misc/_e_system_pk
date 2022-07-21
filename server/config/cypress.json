@@ -1,0 +1,5 @@
+{
+    "video": false,
+    "integrationFolder": "cypress/integration/",
+    "baseUrl": "http://localhost:81"
+}

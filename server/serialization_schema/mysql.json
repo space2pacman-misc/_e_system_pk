@@ -1,0 +1,50 @@
+{
+    "input": {
+        "id": {
+            "clients": "CLIENT_ID",
+            "checks": "CHECK_ID",
+            "actives": "ACTIVE_ID",
+            "reasons": "REASON_ID",
+            "n_risk_levels": "RISK_LEVEL_ID"
+        },
+        "full_text_key": {
+            "clients": "CLIENT_NAME_FT_KEY"
+        },
+        "inn": "INN",
+        "ogrn": "OGRN",
+        "name": "CLIENT_NAME",
+        "date": "DATE_OF_BIRTH",
+        "snils": "SNILS",
+        "description": "COMMENTS",
+        "passport": "PASSPORT",
+        "position": "POSITION",
+        "initiator": "INITIATOR"
+    },
+    "output": {
+        "CLIENT_ID": "id",
+        "CHECK_ID": "id",
+        "ACTIVE_ID": "id",
+        "TYPE_ID": "id",
+        "DECISION_ID": "id",
+        "REASON_ID": "id",
+        "RISK_LEVEL_ID": "id",
+        "INN": "inn",
+        "OGRN": "ogrn",
+        "CLIENT_NAME": "name",
+        "RISK_LEVEL_NAME": "name",
+        "DATE_OF_BIRTH": "date",
+        "SNILS": "snils",
+        "COMMENTS": "description",
+        "USER_NAME": "name",
+        "REASON_NAME": "reason",
+        "ACTIVE_NAME": "active",
+        "DECISION_NAME": "decision",
+        "TYPE_NAME": "type",
+        "PASSPORT": "passport",
+        "POSITION": "position",
+        "INITIATOR": "initiator"
+    },
+    "tables": {
+        "relations_types": "rel_types"
+    }
+}

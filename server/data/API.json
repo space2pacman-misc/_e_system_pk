@@ -1,0 +1,20 @@
+{
+	"checko": {
+		"protocol": "https",
+		"address": "api.checko.ru",
+		"key": {
+			"name": "key",
+			"value": ""
+		},
+		"params": "/json"
+	},
+	"kontur.focus": {
+		"protocol": "https",
+		"address": "focus-api.kontur.ru",
+		"key": {
+			"name": "key",
+			"value": ""
+		},
+		"params": "/api3/req"
+	}
+}

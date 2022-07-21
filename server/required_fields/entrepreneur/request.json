@@ -1,0 +1,10 @@
+[
+    {
+        "name": "inn",
+        "type": "string",
+        "length": {
+            "min": 12,
+            "max": 12
+        }
+    }
+]

@@ -1,0 +1,5 @@
+{
+	"Invalid value length for inn. Expected: {value}, instead got: {value}.": "Неверная длинна ИНН. Ожидается: {value}, вместо этого получено: {value}.",
+	"Not found by inn: {value}.": "Данные не найдены по ИНН: {value}.",
+	"No results were found for: {value}.": "Нет результатов по запросу: {value}."
+}

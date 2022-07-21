@@ -1,0 +1,18 @@
+[
+    {
+        "name": "inn",
+        "type": "string",
+        "length": {
+            "min": 12,
+            "max": 12
+        }
+    },
+    {
+        "name": "name",
+        "type": "string",
+        "length": {
+            "min": 2,
+            "max": 300
+        }
+    }
+]

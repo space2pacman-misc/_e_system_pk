@@ -1,0 +1,26 @@
+[
+    {
+        "name": "name",
+        "type": "string",
+        "length": {
+            "min": 2,
+            "max": 300
+        }
+    },
+    {
+        "name": "date",
+        "type": "string",
+        "length": {
+            "min": 10,
+            "max": 10
+        }
+    },
+    {
+        "name": "passport",
+        "type": "string",
+        "length": {
+            "min": 10,
+            "max": 10
+        }
+    }
+]

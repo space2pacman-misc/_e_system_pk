@@ -1,0 +1,31 @@
+{
+    "proxy": {
+        "protocol": "",
+        "address": "",
+        "port": "",
+        "login": "",
+        "password": ""
+    },
+    "db": {
+        "mysql": {
+            "host": "",
+            "user": "",
+            "password": "",
+            "port": "",
+            "database": "",
+            "waitForConnections": true,
+            "connectionLimit": 10,
+            "queueLimit": 0
+        },
+        "section": {
+            "allowed": ["clients"]
+        }
+    },
+    "server": {
+        "host": "localhost",
+        "port": 81,
+        "headers": {
+            "content-type": ["application/json"]
+        }
+    }
+}
